@@ -1,0 +1,55 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+wheels/
+*.egg-info
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.out
+
+# Environment variables
+.env
+.env.local
+
+# Secrets
+*.key
+*.pem
+private_key.txt
+
+# Test coverage
+.coverage
+.pytest_cache/
+
+# Backup folder
+backup/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Database
+*.db
+*.sqlite

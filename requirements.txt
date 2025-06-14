@@ -1,0 +1,9 @@
+fastmcp
+flask
+requests
+streamlit
+pandas
+plotly
+aiohttp
+swarms
+eth-account>=0.8.0
