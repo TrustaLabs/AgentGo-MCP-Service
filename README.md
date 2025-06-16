@@ -103,10 +103,8 @@ Default mode
    "mcpServers": {
       "AgentGoMcp": {
       "command": "python3",
-      "args": ["gentgo_mcp_service.py"],
-      "env": {
-         "AGENT_ADDRESS": "0x39a39981bF87EE0e8E9D6434A56f00758c9666f0"
-      }
+      "args": ["agentgo_mcp_service.py"]
+   
       }
    }
 }
